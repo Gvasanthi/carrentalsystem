@@ -1,0 +1,22 @@
+body
+{
+	margin:0;
+ 	padding:0;
+	background-image:url('easygo.jpg');
+        background-size: cover;
+	background-position: center;
+	font-family:sans-serif;
+
+
+}
+.btngrp input[type="button"]
+{
+	border:none;
+	outline:none;
+	
+	background:#1c8adb;
+	color:#fff;
+	
+	border-radius:20px;
+	
+}

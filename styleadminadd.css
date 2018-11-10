@@ -1,0 +1,22 @@
+body
+{
+	margin:0;
+ 	padding:0;
+	background-image:url('addcar.jpg');
+        background-size: cover;
+	background-position: center;
+	font-family:sans-serif;
+
+
+}
+.login-box input[type="button"]
+{
+	border:none;
+	outline:none;
+	
+	background:#1c8adb;
+	color:#fff;
+	
+	border-radius:20px;
+	
+}
